@@ -1,17 +1,4 @@
 # Listing-BEP20Token
-Hi.
-I think that we need a new communication channel for our good communication.
-This is my skype id.(Crypto Hero)
-live:.cid.b3512f668f7c6c22
-We can have a good communication on there.
-
-You don't have to tell about this on freelancer.com.
-If freelancer.com know that we discuss on outsite, our account will be dangerous.
-This is a secret.
-
-Maybe you can send your telegram id.
-Pleas contact me.
-
 How to register your token
 Centralized exchanges facilitate trading and manage people’s capital and their private keys. They are a popular choice for all newcomers to the world of cryptocurrencies due to user-friendly platforms. On top of that, they provide certain services such as margin trading and landing. Plus, they stop losses or include wallets for storing your cryptocurrencies. In addition, thanks to their popularity, they offer higher liquidity, allowing you to convert cryptocurrencies into fiat currencies faster.
 One of the most significant advantages of CEX over DEX for everyone looking to dabble with crypto for the very first time is that they allow payments via fiat currencies, such as bank wire transfers, as well as credit and debit card payments. Since decentralized exchanges accept only cryptocurrency deposits, CCE is a starting point for almost every crypto trader out there.
